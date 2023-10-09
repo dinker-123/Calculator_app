@@ -1,0 +1,47 @@
+.text-center{
+    text-align:center;
+
+    color:white;
+    background-color: black;
+    width:100%;
+    margin-bottom:8px;
+}
+
+.bg-red{
+    background:#e2e0e0;
+    display:flex;
+    flex-wrap: wrap;
+    width:350px;
+    padding:8px;
+}
+
+.mx-auto{
+    margin:auto;
+}
+
+.flex{
+    display:flex;
+}
+    
+.flex-col{
+    flex-direction:column;
+}
+
+.items-center{
+    align-items:center;
+}
+
+.zero{
+    justify-content: center;
+    width: 170px;
+}
+
+.spaical{
+    width:85px;
+}
+
+.red{
+    background-color: #c14444;
+    color:white;
+    border:2px solid white;
+}
